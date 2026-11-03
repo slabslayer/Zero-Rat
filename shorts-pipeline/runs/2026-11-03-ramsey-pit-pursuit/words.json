@@ -1,0 +1,635 @@
+{
+ "segments": [
+  {
+   "tag": "FOOTAGE",
+   "start": 0.0,
+   "dur": 38.557
+  }
+ ],
+ "words": [
+  {
+   "w": "Police",
+   "start": 0.0,
+   "end": 0.506,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "say",
+   "start": 0.506,
+   "end": 0.759,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "he",
+   "start": 0.759,
+   "end": 0.928,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "pointed",
+   "start": 0.928,
+   "end": 1.518,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "a",
+   "start": 1.518,
+   "end": 1.603,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "gun",
+   "start": 1.603,
+   "end": 1.856,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "at",
+   "start": 1.856,
+   "end": 2.024,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "a",
+   "start": 2.024,
+   "end": 2.109,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "gas",
+   "start": 2.109,
+   "end": 2.362,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "station",
+   "start": 2.362,
+   "end": 2.952,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "\u2014",
+   "start": 2.952,
+   "end": 3.036,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "then",
+   "start": 3.036,
+   "end": 3.374,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "ran",
+   "start": 3.374,
+   "end": 3.627,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "from",
+   "start": 3.627,
+   "end": 3.964,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "deputies",
+   "start": 3.964,
+   "end": 4.639,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "for",
+   "start": 4.639,
+   "end": 4.892,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "eighteen",
+   "start": 4.892,
+   "end": 5.567,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "miles",
+   "start": 5.567,
+   "end": 5.989,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "in",
+   "start": 5.989,
+   "end": 6.157,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "a",
+   "start": 6.157,
+   "end": 6.242,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "stolen",
+   "start": 6.242,
+   "end": 6.748,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Kia.",
+   "start": 6.748,
+   "end": 7.001,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Sunday",
+   "start": 7.001,
+   "end": 7.484,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "night,",
+   "start": 7.484,
+   "end": 7.886,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "about",
+   "start": 7.886,
+   "end": 8.289,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "nine-forty,",
+   "start": 8.289,
+   "end": 9.094,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "White",
+   "start": 9.094,
+   "end": 9.496,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Bear",
+   "start": 9.496,
+   "end": 9.818,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Lake,",
+   "start": 9.818,
+   "end": 10.14,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Minnesota.",
+   "start": 10.14,
+   "end": 10.865,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "An",
+   "start": 10.865,
+   "end": 11.026,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "officer",
+   "start": 11.026,
+   "end": 11.589,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "tried",
+   "start": 11.589,
+   "end": 11.992,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "to",
+   "start": 11.992,
+   "end": 12.153,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "stop",
+   "start": 12.153,
+   "end": 12.475,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "a",
+   "start": 12.475,
+   "end": 12.555,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "driver",
+   "start": 12.555,
+   "end": 13.038,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "who",
+   "start": 13.038,
+   "end": 13.28,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "had",
+   "start": 13.28,
+   "end": 13.521,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "just",
+   "start": 13.521,
+   "end": 13.843,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "left",
+   "start": 13.843,
+   "end": 14.165,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "that",
+   "start": 14.165,
+   "end": 14.487,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "gas",
+   "start": 14.487,
+   "end": 14.729,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "station.",
+   "start": 14.729,
+   "end": 15.292,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "He",
+   "start": 15.292,
+   "end": 15.453,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "kept",
+   "start": 15.453,
+   "end": 15.775,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "going.",
+   "start": 15.775,
+   "end": 16.178,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "A",
+   "start": 16.178,
+   "end": 16.258,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Ramsey",
+   "start": 16.258,
+   "end": 16.741,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "County",
+   "start": 16.741,
+   "end": 17.224,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "deputy",
+   "start": 17.224,
+   "end": 17.707,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "took",
+   "start": 17.707,
+   "end": 18.029,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "the",
+   "start": 18.029,
+   "end": 18.271,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "lead",
+   "start": 18.271,
+   "end": 18.593,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "on",
+   "start": 18.593,
+   "end": 18.754,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Interstate",
+   "start": 18.754,
+   "end": 19.559,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "six-ninety-four.",
+   "start": 19.559,
+   "end": 20.766,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "In",
+   "start": 20.766,
+   "end": 20.927,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Anoka,",
+   "start": 20.927,
+   "end": 21.33,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "a",
+   "start": 21.33,
+   "end": 21.41,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "deputy",
+   "start": 21.41,
+   "end": 21.893,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "laid",
+   "start": 21.893,
+   "end": 22.215,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "down",
+   "start": 22.215,
+   "end": 22.537,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "stop",
+   "start": 22.537,
+   "end": 22.859,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "sticks.",
+   "start": 22.859,
+   "end": 23.342,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "He",
+   "start": 23.342,
+   "end": 23.503,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "drove",
+   "start": 23.503,
+   "end": 23.906,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "right",
+   "start": 23.906,
+   "end": 24.308,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "over",
+   "start": 24.308,
+   "end": 24.63,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "them",
+   "start": 24.63,
+   "end": 24.952,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "\u2014",
+   "start": 24.952,
+   "end": 25.033,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "and",
+   "start": 25.033,
+   "end": 25.274,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "kept",
+   "start": 25.274,
+   "end": 25.596,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "going.",
+   "start": 25.596,
+   "end": 25.999,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Eleven",
+   "start": 25.999,
+   "end": 26.482,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "minutes",
+   "start": 26.482,
+   "end": 27.045,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "in,",
+   "start": 27.045,
+   "end": 27.206,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "the",
+   "start": 27.206,
+   "end": 27.448,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "deputy",
+   "start": 27.448,
+   "end": 27.931,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "ended",
+   "start": 27.931,
+   "end": 28.333,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "it",
+   "start": 28.333,
+   "end": 28.494,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "with",
+   "start": 28.494,
+   "end": 28.816,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "a",
+   "start": 28.816,
+   "end": 28.897,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "PIT",
+   "start": 28.897,
+   "end": 29.138,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "maneuver.",
+   "start": 29.138,
+   "end": 29.782,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Deputies",
+   "start": 29.782,
+   "end": 30.426,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "say",
+   "start": 30.426,
+   "end": 30.668,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "the",
+   "start": 30.668,
+   "end": 30.909,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Kia",
+   "start": 30.909,
+   "end": 31.151,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "was",
+   "start": 31.151,
+   "end": 31.392,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "stolen.",
+   "start": 31.392,
+   "end": 31.875,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Thirty-year-old",
+   "start": 31.875,
+   "end": 33.083,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Jaime",
+   "start": 33.083,
+   "end": 33.485,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Alexis",
+   "start": 33.485,
+   "end": 33.968,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Escoto",
+   "start": 33.968,
+   "end": 34.451,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Rodriguez",
+   "start": 34.451,
+   "end": 35.176,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "of",
+   "start": 35.176,
+   "end": 35.337,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "Richfield",
+   "start": 35.337,
+   "end": 36.061,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "was",
+   "start": 36.061,
+   "end": 36.303,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "arrested",
+   "start": 36.303,
+   "end": 36.947,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "and",
+   "start": 36.947,
+   "end": 37.188,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "is",
+   "start": 37.188,
+   "end": 37.349,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "awaiting",
+   "start": 37.349,
+   "end": 37.993,
+   "seg": "FOOTAGE"
+  },
+  {
+   "w": "charges.",
+   "start": 37.993,
+   "end": 38.557,
+   "seg": "FOOTAGE"
+  }
+ ]
+}

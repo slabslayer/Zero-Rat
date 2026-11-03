@@ -1,0 +1,43 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Liberation Sans,64,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,4,1,2,60,60,480,1
+Style: Headline,Liberation Sans,88,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,5,1,8,60,60,140,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.00,0:00:01.60,Caption,,0,0,0,,Police say he pointed a
+Dialogue: 0,0:00:01.60,0:00:02.95,Caption,,0,0,0,,gun at a gas station
+Dialogue: 0,0:00:02.95,0:00:04.64,Caption,,0,0,0,,— then ran from deputies
+Dialogue: 0,0:00:04.64,0:00:06.24,Caption,,0,0,0,,for eighteen miles in a
+Dialogue: 0,0:00:06.24,0:00:07.00,Caption,,0,0,0,,stolen Kia.
+Dialogue: 0,0:00:07.00,0:00:08.29,Caption,,0,0,0,,Sunday night, about
+Dialogue: 0,0:00:08.29,0:00:10.14,Caption,,0,0,0,,nine-forty, White Bear Lake,
+Dialogue: 0,0:00:10.14,0:00:10.87,Caption,,0,0,0,,Minnesota.
+Dialogue: 0,0:00:10.87,0:00:12.47,Caption,,0,0,0,,An officer tried to stop
+Dialogue: 0,0:00:12.47,0:00:13.84,Caption,,0,0,0,,a driver who had just
+Dialogue: 0,0:00:13.84,0:00:15.29,Caption,,0,0,0,,left that gas station.
+Dialogue: 0,0:00:15.29,0:00:16.18,Caption,,0,0,0,,He kept going.
+Dialogue: 0,0:00:16.18,0:00:17.71,Caption,,0,0,0,,A Ramsey County deputy
+Dialogue: 0,0:00:17.71,0:00:19.56,Caption,,0,0,0,,took the lead on Interstate
+Dialogue: 0,0:00:19.56,0:00:20.77,Caption,,0,0,0,,six-ninety-four.
+Dialogue: 0,0:00:20.77,0:00:22.21,Caption,,0,0,0,,In Anoka, a deputy laid
+Dialogue: 0,0:00:22.21,0:00:23.34,Caption,,0,0,0,,down stop sticks.
+Dialogue: 0,0:00:23.34,0:00:24.95,Caption,,0,0,0,,He drove right over them
+Dialogue: 0,0:00:24.95,0:00:26.00,Caption,,0,0,0,,— and kept going.
+Dialogue: 0,0:00:26.00,0:00:27.93,Caption,,0,0,0,,Eleven minutes in, the deputy
+Dialogue: 0,0:00:27.93,0:00:29.14,Caption,,0,0,0,,ended it with a PIT
+Dialogue: 0,0:00:29.14,0:00:29.78,Caption,,0,0,0,,maneuver.
+Dialogue: 0,0:00:29.78,0:00:31.39,Caption,,0,0,0,,Deputies say the Kia was
+Dialogue: 0,0:00:31.39,0:00:31.88,Caption,,0,0,0,,stolen.
+Dialogue: 0,0:00:31.88,0:00:33.97,Caption,,0,0,0,,Thirty-year-old Jaime Alexis
+Dialogue: 0,0:00:33.97,0:00:36.06,Caption,,0,0,0,,Escoto Rodriguez of Richfield
+Dialogue: 0,0:00:36.06,0:00:37.99,Caption,,0,0,0,,was arrested and is awaiting
+Dialogue: 0,0:00:37.99,0:00:38.56,Caption,,0,0,0,,charges.
+Dialogue: 1,0:00:00.00,0:00:38.56,Headline,,0,0,0,,GUN. STOLEN KIA.\N18 MILES. ONE MOVE.
