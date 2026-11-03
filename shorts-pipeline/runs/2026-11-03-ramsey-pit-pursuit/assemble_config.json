@@ -1,0 +1,10 @@
+{
+ "band_crop": "572:322:155:80",
+ "footage": "footage/source-news.mp4",
+ "footage_cuts": [[9.3, 37.0]],
+ "headline_events": [[0.0, null, "GUN. STOLEN KIA.\\N18 MILES. ONE MOVE."]],
+ "host_a": "host/placeholder.mp4",
+ "host_b": "host/placeholder.mp4",
+ "nohost": true,
+ "outro": "brand/outro-iris.mp4"
+}
