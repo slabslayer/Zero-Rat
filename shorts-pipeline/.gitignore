@@ -1,0 +1,8 @@
+# generated per-run outputs (large / regenerable) — keep script.txt, configs, pack.md
+runs/*/footage/
+runs/*/audio/
+runs/*/host/
+runs/*/qc/
+runs/*/*.mp4
+runs/*/*.wav
+runs/*/vo-list.txt
